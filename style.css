@@ -1,6 +1,11 @@
-li {
-  color:red;
-}
-h1 {
-  font:italic;
-}
+  h1 {
+    font:italic;
+    text-align: center;
+  }
+  body {
+    background-color: aquamarine;
+  }
+  img {
+    height:300px;
+    width:300px;
+  }
